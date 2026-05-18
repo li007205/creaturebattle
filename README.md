@@ -1,5 +1,5 @@
 # Overview
-A game about sustainability made into a pokemon-esque style battling. The user will have to answer the question correctly to do damage to each other.
+A game about sustainability made into a pokemon-esque style battling. Its a turn based 1v1 battle. The users will have to answer each questions correctly to do damage to each other. This is meant to help teach children about sustainability. Sustainability is important to maintain the environment through energy efficiency, water conservation and resource management. Allowing the idea of sustainability to foster in children in some degree.
 
 # Usage Instructions
 - Requires 2 players to play.
