@@ -9,3 +9,4 @@ A game about sustainability made into a pokemon-esque style battling. The user w
 
 # Installation Instructions
 It's a normal java program that can be run if any computer can run a java programs.
+install the latest Java development kits.
